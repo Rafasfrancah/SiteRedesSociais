@@ -1,3 +1,4 @@
-# RedesSociais
+# Redes Sociais
 
-https://rafasfrancah.github.io/SiteRedesSociais/
+* <a href="https://rafasfrancah.github.io/SiteRedesSociais/" target="_blank">Site Android</a> 
+
